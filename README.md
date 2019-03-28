@@ -1,7 +1,1 @@
-# Express boilerplate
-
-
-```
-git clone https://github.com/pusher-community/express-boilerplate YOUR_PROJECT_NAME
-```
-
+https://pusher.com/tutorials/html-chatbox-chatkit
